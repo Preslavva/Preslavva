@@ -11,4 +11,4 @@ My nane is Preslava Gocheva. I am Software Engineering student, currenlty specia
 - Backend: C#, Python, Java, ASP.NET Core, Flask
 - Frontend: JavaScript, HTML, CSS
 - Tools: Git, SQL, REST APIs
-- AI/Machine Learning - training and evalusting baseline models and  deep learning models (CNN, LSTM), data analysis and visualisation, data preprocessing and feature engineering
+- AI/Machine Learning - training and evaluating baseline models and deep learning models (CNN, LSTM), data analysis and visualisation, data preprocessing and feature engineering
