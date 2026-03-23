@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**Preslavva/Preslavva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My nane is Preslava Gocheva. I am Software Engineering student, currenlty specialising in Full Stack development with experience in AI, Machine Learning and Data analysis. 
 
-Here are some ideas to get you started:
+## 🚀 Current Focus
+- Building GatherNet — a platform for discovering, creating, and managing social events (Spring Boot, PostgreSQL, Flyway, React.js)
+- Exploring AI recommendations
+- Managing real-time updates (chat, notifications) using websockets 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ## 🛠 Tech Stack
+- Backend: C#, Python, Java, ASP.NET Core, Flask
+- Frontend: JavaScript, HTML, CSS
+- Tools: Git, SQL, REST APIs
+- AI/Machine Learning - training and evalusting baseline models and  deep learning models (CNN, LSTM), data analysis and visualisation, data preprocessing and feature engineering
