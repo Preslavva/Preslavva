@@ -1,14 +1,17 @@
 ## Hi there 👋
 
-My nane is Preslava Gocheva. I am Software Engineering student, currenlty specialising in Full Stack development with experience in AI, Machine Learning and Data analysis. 
+My nane is Preslava Gocheva. I am ICT student with hands-on experience in full-stack development and machine learning, building structured and scalable applications using C#, ASP.NET, SQL and Python. I developed AI-driven systems using deep learning and pretrained models, with a strong focus on clean code, system design and practical problem-solving.
 
 ## 🚀 Current Focus
-- Building GatherNet — a platform for discovering, creating, and managing social events (Spring Boot, PostgreSQL, Flyway, React.js)
+- Building GatherNet — a platform for discovering, creating and managing social events (Spring Boot, PostgreSQL, Flyway, React.js)
 - Exploring AI recommendations
 - Managing real-time updates (chat, notifications) using websockets 
 
  ## 🛠 Tech Stack
-- Backend: C#, Python, Java, ASP.NET Core, Flask
-- Frontend: JavaScript, HTML, CSS
-- Tools: Git, SQL, REST APIs
-- AI/Machine Learning - training and evaluating baseline models and deep learning models (CNN, LSTM), data analysis and visualisation, data preprocessing and feature engineering
+- Languages: C#, Python, Java, JavaScript
+- Backend: ASP.NET MVC, Spring Boot, Flask
+- Frontend: HTML, CSS, React.js
+- Databases: MSSQL, PostgreSQL
+- AI / Machine Learning: Deep Learning (PyTorch), Machine Learning (Scikit-learn), Feature Engineering, EDA
+- Tools & Technologies: Git, REST APIs, Flyway, Supabase, Postman
+
